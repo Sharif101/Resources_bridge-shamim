@@ -1,19 +1,10 @@
-# Inventory Management Dashboard - Pridesys IT Ltd
-
-A modern and responsive **Inventory Management Dashboard** built with **React, Vite, Tailwind CSS, Shadcn and React Router**.  
-This application allows users to manage inventory items, locations, and view detailed product information using dynamic routing and a clean, professional UI.
-
-🔗 **Live Demo:** https://pridesys-it-task.netlify.app/
-
----
-
 ## 🚀 How to Run the Project
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Sharif101/Pridesys-it-task
-cd Pridesys-it-task
+git clone https://github.com/Sharif101/Resources_bridge-shamim.git
+cd Resources_bridge-shamim
 npm install
 npm start
 ```
